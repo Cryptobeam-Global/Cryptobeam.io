@@ -10,7 +10,7 @@ Unveil the Future of Crypto Trading
 
 - **Auto Detection of Deposits:** Enjoy the seamless detection and instant crediting of deposits. Each user is assigned a unique deposit per coin, ensuring accuracy and efficiency.
 
-- **Binance Clone:** Leverage the power of Codono's Binance clone to create cryptocurrency exchanges akin to Binance, Huobi, and Coinbase. Begin your crypto exchange journey within a week.
+- **Binance Clone:** Leverage the power of Cryptobeam's Binance clone to create cryptocurrency exchanges akin to Binance, Huobi, and Coinbase. Begin your crypto exchange journey within a week.
 <img src="assets/cryptocurrency_Exchange_script_binance_clone_codono.png?raw=true" alt="Binance clone" title="Binance clone" style="width:300px">
 
 Explore the Universe of [Binance Clone](https://CRYPTOBEAM.IO)
@@ -21,13 +21,11 @@ Explore the Universe of [Binance Clone](https://CRYPTOBEAM.IO)
 
 - **Wide Token Compatibility:** Enjoy compatibility with numerous coins and tokens, from Bitcoin (BTC), Litecoin (LTC), Dogecoin (DOGE), Tron [TRC10+TRC20]*, Ethereum based tokens [ETH-ERC20, BNB-BEP20, FTM, SOL, Private Networks], XRP, XMR, Waves, Coinpayments, and more.
 
-[Cryptocurrency Nodes Setup Guide](node-setup/) for codono
+[Cryptocurrency Nodes Setup Guide](node-setup/) for Cryptobeam
 
 ![Cryptocurrency Exchange Software](assets/Download-Cryptocurrency-Exchange-Script-Cryptocurrency-Exchange-Software.png?raw=true "Cryptocurrency Exchange Software")
 
-Elevate Your Trading with [Cryptocurrency Exchange Software](https://codono.com/download/)
-
-- **6 Years of Expertise:** Codono's Binance clone has evolved over 6 years, making it suitable for businesses of all scales, from small startups to enterprise giants.
+Elevate Your Trading with [Cryptocurrency Exchange Software](https://cryptobeam.com/download/)
 
 - **Web and Mobile App Deployment:** Access the world of crypto trading seamlessly through web and mobile applications, ensuring a user-friendly experience.
 
